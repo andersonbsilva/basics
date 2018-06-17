@@ -1,3 +1,4 @@
 file 1
-added two lines
-added two lines
+added three lines
+added three lines
+added three lines

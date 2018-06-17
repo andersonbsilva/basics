@@ -2,3 +2,4 @@ file 1
 added three lines
 added three lines
 added three lines
+deletei duas linhas desse arquivo

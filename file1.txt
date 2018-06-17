@@ -1,3 +1,2 @@
 file 1
-added two lines
-added two lines
+deletei duas linhas desse arquivo
